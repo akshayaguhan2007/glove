@@ -7,7 +7,7 @@ import { componentTagger } from "lovable-tagger";
 export default defineConfig(({ mode }) => ({
   // base path is necessary when deploying under a repo subpath (e.g. GitHub Pages)
   // adjust to your repo name or hosting path
-  base: "/glove.12/",
+  base: "/glove/",
   server: {
     host: "::",
     port: 8080,

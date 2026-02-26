@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://akshayaguhan2007.github.io/glove.12/",
+  "homepage": "https://akshayaguhan2007.github.io/glove/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
